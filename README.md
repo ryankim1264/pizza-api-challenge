@@ -6,11 +6,10 @@ A Flask RESTful API to manage restaurants, pizzas, and their relationships. Buil
 
 ##  Technologies Used
 
-- Python 3.12+
+- Python
 - Flask
 - SQLAlchemy
 - Flask-Migrate
-- Marshmallow
 - SQLite (default DB)
 
 ---
