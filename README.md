@@ -1,6 +1,6 @@
 #  Pizza API Challenge
 
-A Flask RESTful API to manage restaurants, pizzas, and their relationships. Built with Flask, SQLAlchemy, Flask-Migrate, and Marshmallow.
+A Flask API to manage restaurants, pizzas, and their relationships. Built with Flask, SQLAlchemy, Flask-Migrate, and Marshmallow.
 
 ---
 
