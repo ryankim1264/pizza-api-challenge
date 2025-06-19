@@ -57,6 +57,22 @@ pipenv shell
 
 -Prefered testing tool is postman
 
+---
+
+## Testing with Thunder Client
+
+- Open Thunder Client (or Postman).
+- Add requests for:GET /restaurants
+
+GET /pizzas
+
+POST /restaurant_pizzas
+
+- URL: http://localhost:5000/restaurant_pizzas
+- Body → JSON
+
+
+
 
 
 
