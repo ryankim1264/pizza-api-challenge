@@ -14,6 +14,13 @@ A Flask API to manage restaurants, pizzas, and their relationships. Built with F
 
 ---
 
+## Create a virtual Enviroment
+
+pipenv install flask flask_sqlalchemy flask_migrate
+pipenv shell
+ ---
+
+ 
 
 
 
